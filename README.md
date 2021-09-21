@@ -15,7 +15,8 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Credit to your mum
+Credit to your mum and credit to the udacity team
 
 ### changes
 Updated line 18 and line 63 with different response text
+Updated line 131 with different phrasing
