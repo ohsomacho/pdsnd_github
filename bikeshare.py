@@ -60,7 +60,7 @@ def time_stats(df):
     # display the most common start hour
 
 
-    print("\nThis took %s seconds. Impressive" % (time.time() - start_time))
+    print("\nThis took %s seconds. Wicked" % (time.time() - start_time))
     print('-'*40)
 
 
